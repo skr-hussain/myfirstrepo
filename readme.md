@@ -1,1 +1,2 @@
-# a file on github
+# a file on github 
+# my first repository, after learning git and github
